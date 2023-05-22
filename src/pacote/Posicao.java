@@ -36,11 +36,4 @@ public class Posicao {
 	public String toString() {
 		return coluna + " , " + linha;//printar a linha , coluna
 	}
-
-	public void Borda() {
-		
-	}
-	public void Peca() {
-		
-	}
 }
